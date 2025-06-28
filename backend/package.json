@@ -5,7 +5,12 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js"
+<<<<<<< HEAD
   },
+=======
+  }
+  ,
+>>>>>>> 9788c6e7d97eb83bc7f25049191dfa42d9c5c181
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -16,8 +21,14 @@
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
+<<<<<<< HEAD
     "jsonwebtoken": "^9.0.2",
     "mailtrap": "^4.1.0",
+=======
+    "express-rate-limit": "^7.5.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+>>>>>>> 9788c6e7d97eb83bc7f25049191dfa42d9c5c181
     "mongoose": "^8.16.0",
     "nodemailer": "^7.0.3"
   },

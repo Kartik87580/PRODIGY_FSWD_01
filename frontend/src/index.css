@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 @import "tailwindcss";
 
 
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+>>>>>>> 9788c6e7d97eb83bc7f25049191dfa42d9c5c181

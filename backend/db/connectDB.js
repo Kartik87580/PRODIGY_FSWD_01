@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 // connectDB.js
  import mongoose from "mongoose";
+=======
+import mongoose from "mongoose";
+>>>>>>> 9788c6e7d97eb83bc7f25049191dfa42d9c5c181
 
 export const connectDB = async () => {
 	try {
